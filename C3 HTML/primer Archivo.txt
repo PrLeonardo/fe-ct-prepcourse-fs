@@ -1,4 +1,0 @@
-normal que no esta en un repositorio de git
-ahora este archivo esta en un repositorio
-segunda modificación al archivo 
-mas modificaciones al archivo
