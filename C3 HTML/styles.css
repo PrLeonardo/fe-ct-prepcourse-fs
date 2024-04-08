@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: antiquewhite;
+    color: #333;
+    margin: 50px;
+  }
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-content: flex-end;
+    align-items:flex-end;
+
+}
+
+.cajaVerde {
+    width: 1100px;
+    height: 55px;
+    flex-shrink: 0;
+    background-color: rgb(0, 255, 42);
+    margin-top: 71px;
+}
+
+#primerEnlace{
+    
+    font-size: 24px;
+    
+    
+}
